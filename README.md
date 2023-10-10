@@ -1,1 +1,2 @@
-# practica1
+# practica1 
+#generar un el primer commit
